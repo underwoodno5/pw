@@ -1,3 +1,3 @@
 self.addEventListener('push', function (event) {
-  event.waitUntil(self.registration.showNotification('Hello, World.'));
+  event.waitUntil(self.registration.showNotification('whattayat.'));
 });
