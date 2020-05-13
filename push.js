@@ -22,8 +22,5 @@ let sub = {
     auth: 'jQRS8u_hF1tpoFg-jOJNMg',
   },
 };
-push.sendNotification(sub);
 
-export function send() {
-  console.log('yep');
-}
+push.sendNotification(sub);
