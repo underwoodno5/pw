@@ -24,3 +24,7 @@ let sub = {
 };
 
 push.sendNotification(sub);
+
+function hello() {
+  console.log('hello');
+}
